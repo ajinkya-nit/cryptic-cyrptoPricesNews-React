@@ -1,0 +1,11 @@
+What did I used?
+
+antd @ant-design/icons react-redux @reduxjs/toolkit axios chart.js html-react-parser millify moment react-chartjs-2
+
+What more I can add?
+-> Adding optios for the api key to extract costomizable data from the website
+
+Fetching Query -->
+build.query: Used for getting data (Read).
+
+build.mutation: Used for changing data (Create, Update, Delete).

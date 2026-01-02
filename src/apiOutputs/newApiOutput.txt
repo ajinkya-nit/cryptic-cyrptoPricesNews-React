@@ -1,0 +1,304 @@
+{
+  "status": "success",
+  "totalResults": 23657,
+  "results": [
+    {
+      "article_id": "4bb8e942e793fc5cd626f10dd12d678c",
+      "link": "https://cryptonews.com/news/solana-price-prediction-mysterious-whale-wallets-are-buying-up-solana-coins-is-big-news-coming-for-2026/",
+      "title": "Solana Price Prediction: Mysterious Whale Wallets Are Buying Up Solana Coins – Is Big News Coming for 2026?",
+      "description": "A fresh wave of whale activity is breathing life into the Solana ecosystem, and it could mark the beginning of a major turnaround.Backing a bullish Solana price prediction, a group of deep-pocketed wallets has quietly accumulated over $15.9 million worth of Solana-based DeFi tokens, even as prices continue to slide.According to Lookonchain, three wallets have [...]The post Solana Price Prediction: Mysterious Whale Wallets Are Buying Up Solana Coins – Is Big News Coming for 2026? appeared first on Cryptonews.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "sol",
+        "price prediction",
+        "solana",
+        "price analysis"
+      ],
+      "creator": [
+        "Alejandro Arrieche"
+      ],
+      "coin": null,
+      "language": "english",
+      "pubDate": "2026-01-01 23:50:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-01-01 23:55:23",
+      "image_url": "https://cimg.co/wp-content/uploads/2026/01/01152235/1767280954-chatgpt-image-jan-1-2026-03_22_01-pm_optimized.jpg",
+      "video_url": null,
+      "source_id": "cryptonews",
+      "source_name": "Crypto News",
+      "source_priority": 11543,
+      "source_url": "https://cryptonews.com",
+      "source_icon": "https://n.bytvi.com/crypto/cryptonews.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "8fe49aafbf038b0e018bbc55cc368ba4",
+      "link": "https://thecryptonewswire.com/losses-from-crypto-hacks-down-60-in-december-peckshield/",
+      "title": "Losses from crypto hacks down 60% in December: PeckShield",
+      "description": "Although monetary losses declined, users still lost tens of millions of dollars to common cybersecurity...The post Losses from crypto hacks down 60% in December: PeckShield appeared first on The Crypto News Wire.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "trending crypto news"
+      ],
+      "creator": [
+        "TheCryptoNewsWire"
+      ],
+      "coin": null,
+      "language": "english",
+      "pubDate": "2026-01-01 23:49:43",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-01-01 23:58:58",
+      "image_url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjdiNmItYjM4Yy03ZWNjLWI0N2QtM2I0Yzg5MWFjZjUxLmpwZw==.jpg",
+      "video_url": null,
+      "source_id": "thecryptonewswire",
+      "source_name": "The Crypto News Wire",
+      "source_priority": 30667210,
+      "source_url": "https://thecryptonewswire.com",
+      "source_icon": "https://n.bytvi.com/crypto/thecryptonewswire.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "94144f3860196362e627e547efd26a9a",
+      "link": "https://thecryptonewswire.com/flow-advances-recovery-plan-raises-exchange-concerns-after-3-9m-exploit/",
+      "title": "Flow advances recovery plan, raises exchange concerns after $3.9M exploit",
+      "description": "The plan to address a multimillion-dollar exploit continued with “phase two progress” on EVM after...The post Flow advances recovery plan, raises exchange concerns after $3.9M exploit appeared first on The Crypto News Wire.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "trending crypto news"
+      ],
+      "creator": [
+        "TheCryptoNewsWire"
+      ],
+      "coin": null,
+      "language": "english",
+      "pubDate": "2026-01-01 23:49:38",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-01-01 23:58:58",
+      "image_url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjdiMDYtZTgzMC03YzcwLWExOWItMzRhZWVmYzFlODNhLmpwZw==.jpg",
+      "video_url": null,
+      "source_id": "thecryptonewswire",
+      "source_name": "The Crypto News Wire",
+      "source_priority": 30667210,
+      "source_url": "https://thecryptonewswire.com",
+      "source_icon": "https://n.bytvi.com/crypto/thecryptonewswire.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "a533cbeabf9fe0b95130c6ec7f9c6071",
+      "link": "https://thecryptonewswire.com/digital-id-cbdcs-risk-turning-us-into-surveillance-state-lawmaker-says/",
+      "title": "Digital ID, CBDCs risk turning US into ‘surveillance state,’ lawmaker says",
+      "description": "US Representative Warren Davidson said the stablecoin-focused GENIUS Act may backfire on Americans by stripping...The post Digital ID, CBDCs risk turning US into ‘surveillance state,’ lawmaker says appeared first on The Crypto News Wire.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "trending crypto news"
+      ],
+      "creator": [
+        "TheCryptoNewsWire"
+      ],
+      "coin": null,
+      "language": "english",
+      "pubDate": "2026-01-01 23:49:33",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-01-01 23:58:58",
+      "image_url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5Yjc2ODEtZTE5Zi03ODk5LTgyMTQtMWY4Zjg5ZDY2NGQyLmpwZw==.jpg",
+      "video_url": null,
+      "source_id": "thecryptonewswire",
+      "source_name": "The Crypto News Wire",
+      "source_priority": 30667210,
+      "source_url": "https://thecryptonewswire.com",
+      "source_icon": "https://n.bytvi.com/crypto/thecryptonewswire.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "a2f847dac77e770ffa8df3aaceb1b633",
+      "link": "https://en.bitcoinhaber.net/three-altcoins-shine-as-bitcoin-nears-89000-milestone",
+      "title": "Three Altcoins Shine as Bitcoin Nears $89,000 Milestone",
+      "description": "As Bitcoin sets its sights on the ambitious $89,000 target, three prominent altcoins are showing remarkable performance. Entering the new year appears to inject a fresh burst of energy into the market, which had been in the throes of stagnation, dimming investors’ spirits.Continue Reading:Three Altcoins Shine as Bitcoin Nears $89,000 Milestone",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "technical analysis",
+        "meme token"
+      ],
+      "creator": [
+        "BH NEWS"
+      ],
+      "coin": [
+        "BTC"
+      ],
+      "language": "english",
+      "pubDate": "2026-01-01 23:48:13",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-01-01 23:57:08",
+      "image_url": "https://en.bitcoinhaber.net/wp-content/uploads/2026/01/meme-token-017.jpg",
+      "video_url": null,
+      "source_id": "bitcoinhaber_en",
+      "source_name": "En Bitcoinhaber Net",
+      "source_priority": 415948,
+      "source_url": "https://en.bitcoinhaber.net",
+      "source_icon": "https://n.bytvi.com/crypto/bitcoinhaber_en.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "8130f2288dd1c54ec1baed79dde72936",
+      "link": "https://vn.investing.com/news/economy-news/khu-cong-nghiep-o-thanh-pho-ho-chi-minh-thu-hut-hon-53-ty-usd-trong-nam-2025-2502710",
+      "title": "Khu công nghiệp ở Thành phố Hồ Chí Minh thu hút hơn 5,3 tỷ USD trong năm 2025",
+      "description": null,
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": [
+        "vietstock"
+      ],
+      "coin": null,
+      "language": "vietnamese",
+      "pubDate": "2026-01-01 23:45:43",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-01-02 00:10:54",
+      "image_url": "https://d52-invdn-com.investing.com/content/pic95212614d533314c3f4aaff55d804e89.png",
+      "video_url": null,
+      "source_id": "investing_vn",
+      "source_name": null,
+      "source_priority": 84154,
+      "source_url": null,
+      "source_icon": null,
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "duplicate": true
+    },
+    {
+      "article_id": "a68643dbf9afdd61c5b9c647d2bc7640",
+      "link": "https://coincentral.com/stablecoin-issuer-tether-bitcoin-holdings-in-2026-hit-96185-btc-details/",
+      "title": "Stablecoin Issuer Tether Bitcoin Holdings in 2026 Hit 96,185 BTC; Details",
+      "description": "TLDR Tether added 8,888.8888888 BTC to its reserve on January 1, 2026. Total Q4 2025 Bitcoin purchases estimated at 9,850 BTC by EmberCN. Tether’s BTC reserve stands at 96,185 BTC valued at $8.42 billion. Average purchase price of Tether’s BTC holdings is around $51,117. Tether has confirmed the addition of nearly 9,000 Bitcoin to its [...]The post Stablecoin Issuer Tether Bitcoin Holdings in 2026 Hit 96,185 BTC; Details appeared first on CoinCentral.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "tether",
+        "bitcoin"
+      ],
+      "creator": [
+        "Kelvin Munene"
+      ],
+      "coin": [
+        "BTC",
+        "USDT"
+      ],
+      "language": "english",
+      "pubDate": "2026-01-01 23:43:59",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-01-01 23:57:23",
+      "image_url": "https://coincentral.com/wp-content/uploads/2025/12/Tether1-1-1200x800.jpg",
+      "video_url": null,
+      "source_id": "coincentral",
+      "source_name": "Coin Central",
+      "source_priority": 614223,
+      "source_url": "http://coincentral.com",
+      "source_icon": "https://n.bytvi.com/crypto/coincentral.jpg",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "be0a2db131f26608973f2d95105fb757",
+      "link": "https://www.financialafrik.com/2026/01/02/ghana-reglement-integral-dun-eurobond-de-709-millions-usd-un-tournant-decisif-dans-la-sortie-de-crise-de-la-dette/",
+      "title": "Ghana : règlement intégral d’un Eurobond de 709 millions USD, un tournant décisif dans la sortie de crise de la dette",
+      "description": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire.Lire la suite»",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "finance",
+        "banques",
+        "premium",
+        "a la une"
+      ],
+      "creator": [
+        "albert savana"
+      ],
+      "coin": null,
+      "language": "french",
+      "pubDate": "2026-01-01 23:43:57",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-01-01 23:46:51",
+      "image_url": "https://www.financialafrik.com/wp-content/uploads/2026/01/IMG_2986.jpeg",
+      "video_url": null,
+      "source_id": "financialafrik",
+      "source_name": null,
+      "source_priority": 306432,
+      "source_url": null,
+      "source_icon": null,
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "96027a42249c0f584759a3fbf3611ade",
+      "link": "https://www.binance.com/en/square/post/34518949794185",
+      "title": "Musk Warns of Consequences if Radical Left Prevails",
+      "description": "According to Odaily, Elon Musk has expressed concerns that if the radical left gains power, it could lead to significant changes in the United States. He warned that such a shift might open the country to illegal immigration and fraudulent activities, potentially altering the nation's identity.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": [
+        "Binance News"
+      ],
+      "coin": null,
+      "language": "english",
+      "pubDate": "2026-01-01 23:43:43",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-01-01 23:55:06",
+      "image_url": null,
+      "video_url": null,
+      "source_id": "binance",
+      "source_name": "Binance",
+      "source_priority": 976,
+      "source_url": "https://www.binance.com",
+      "source_icon": "https://n.bytvi.com/crypto/binance.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "af75d28f3b7885ad5e75f805d31e5235",
+      "link": "https://www.binance.com/en/square/post/34518946941265",
+      "title": "New U.S. Tax Measures on Cross-Border Remittances Effective January 2026",
+      "description": "According to Odaily, new tax measures on certain cross-border remittances in the United States took effect on January 1, 2026. Under regulations from the U.S. Department of the Treasury and the Internal Revenue Service, remittance service providers are required to withhold a 1% tax on eligible transactions and report it accordingly. The regulations specify that remittances funded by cash or similar 'physical payment instruments,' such as money orders and cashier's checks, are subject to this tax. However, transactions funded through U.S. bank account transfers or using debit or credit cards are generally exempt.This measure is part of the 'Big and Beautiful' tax and spending bill promoted by U.S. President Donald Trump's administration. According to the IRS, the tax applies to overseas remitters, including U.S. citizens and residents.Tax experts have noted that cryptocurrency and stablecoin transfers are not considered taxable remittance transfers. This implies that stablecoins do not fall under the category of 'physical payment instruments' subject to the tax, although the practical implications remain uncertain.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": [
+        "Binance News"
+      ],
+      "coin": null,
+      "language": "english",
+      "pubDate": "2026-01-01 23:43:38",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-01-01 23:55:06",
+      "image_url": null,
+      "video_url": null,
+      "source_id": "binance",
+      "source_name": "Binance",
+      "source_priority": 976,
+      "source_url": "https://www.binance.com",
+      "source_icon": "https://n.bytvi.com/crypto/binance.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "duplicate": false
+    }
+  ],
+  "nextPage": "1767311018849690653"
+}
