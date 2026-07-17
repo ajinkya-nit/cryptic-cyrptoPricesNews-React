@@ -21,8 +21,8 @@ function LineChart({ coinHistory, currentPrice, coinName }) {
                 label: 'Price in USD',
                 data: coinPrice,
                 fill: false,
-                backgroundColor: '#0071bd',
-                borderColor: '#0071bd'
+                backgroundColor: '#b93333',
+                borderColor: '#3191d1'
             }
         ]
     }
